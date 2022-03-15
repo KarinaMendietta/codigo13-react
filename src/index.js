@@ -3,10 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// para poder importar un componente debemos llamarlo por el nombre 
+// que fue exportado
+import PrimerComponente from "./App";
+
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* Para usar un   */}
   </React.StrictMode>,
   document.getElementById('root')
 );
