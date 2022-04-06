@@ -7,7 +7,7 @@
 describe("Mi primera prueba con cypress", () => {
     // dentro de nuestro arrow function vamos a escribir las pruebas
     // que haremos ejemplo
-    it("prueba home pokemon", () => {
+    it("pruebaa home pokemon", () => {
       // aca vamos a verificar si es que nuestro home funciona o no
       //cy => cypress
       // Esto va a entrar a localhost:3000 y decirno si funciona o no
